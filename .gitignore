@@ -1,0 +1,3 @@
+# Project exclude paths
+/common-test-tool/target/
+/stream-api/target/
